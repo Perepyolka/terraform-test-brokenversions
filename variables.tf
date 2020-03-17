@@ -4,7 +4,7 @@ variable "vmnetwork" {
   
   }
 
-varibale "vmname" {
+variable "vmname" {
   description = "test"
   type = string
   }
